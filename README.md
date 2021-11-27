@@ -1,9 +1,5 @@
 Hello, welcome to my profile, I am an IT recruiter at the LATAM level, if you are looking for a job or listening to job offers, contact me.
 
-https://raw.githubusercontent.com/https://Israel-Mejía/png_20211012_014438_0000.png/master/assets/ImagenV1.png
-
-
-
 
 
 - 👋 Hi, I’m @Israel-Mejia<
