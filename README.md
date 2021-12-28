@@ -7,7 +7,7 @@ Hello, welcome to my profile, I am an IT recruiter at the LATAM level, if you ar
 - 🌱 I am currently an IT recruiter
 - 💞️ I'm looking for potential talents for all of Latin America
 - 📫 My contact: israel.mejia@xideral.co
-- 📫 My personal contact: mejiamerino.29@gmail.co
+- 📫 My personal contact: mejiamerino.29@gmail.com
               
 - https://www.linkedin.com/in/israel-mej%C3%ADa-it-recruiter/
 
