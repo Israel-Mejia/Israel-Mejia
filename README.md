@@ -3,8 +3,8 @@ Hello, welcome to my profile, I am an IT recruiter at the LATAM level, if you ar
 
 
 - 👋 Hi, I’m @Israel-Mejia<
-- 👀 I am interested in learning more about technologies
-- 🌱 I am currently an IT recruiter
+- 👀 I am interested in learning sobre seguridad informatica
+- 🌱 I am currently estudiante en seguridad informatica
 - 💞️ I'm looking for potential talents for all of Latin America
 - 📫 My contact: israel.mejia@xideral.co
 - 📫 My personal contact: mejiamerino.29@gmail.com
