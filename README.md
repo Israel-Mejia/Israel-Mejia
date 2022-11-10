@@ -1,9 +1,8 @@
 Bienvenido a mi perfil
 
 - 👋 Hi, I’m @Israel-Mejia<
-- 👀 I am interested in learning sobre seguridad informatica
+- 👀 I am interested in learning sobre "seguridad informatica"
 - 🌱 I am currently estudiante en seguridad informatica
-- 📫 My contact: israel.mejia@xideral.co
 - 📫 My personal contact: mejiamerino.29@gmail.com
               
 - https://www.linkedin.com/in/israel-mej%C3%ADa-it-recruiter/
